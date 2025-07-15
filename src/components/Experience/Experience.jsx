@@ -5,7 +5,7 @@ const Experience = () => {
 		<section id='experience' className='py-24 pb-24 px-[12vw] md:px-[7vw] lg:px-[16vw] font-sans bg-skills-gradient clip-path-custom-2'>
 			{/* Titlo */}
 			<div className='text-center mb-16'>
-				<h2 className='text-4xl font-bold text-white'>EXPERIENCIA</h2>
+				<h2 className='text-4xl font-bold text-white'>EXPERIÊNCIA</h2>
 				<div className='w-32 h-1 bg-[#4571ec] mx-auto mt-4'></div>
 				<p className='text-gray-400 mt-4 text-lg font-semibold'>Estou aberto a oportunidades onde possa contribuir e crescer profissionalmente.</p>
 			</div>

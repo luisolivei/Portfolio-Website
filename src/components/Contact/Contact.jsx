@@ -73,7 +73,7 @@ const Contact = () => {
 					/>
 					<textarea
 						name='message'
-						placeholder='Memsagem'
+						placeholder='Mensagem'
 						rows='4'
 						required
 						className='w-full p-3 rounded-md bg-[#131025] text-white border border-gray-600 focus:outline-none focus:border-purple-500'
