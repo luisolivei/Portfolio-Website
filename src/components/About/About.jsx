@@ -26,7 +26,7 @@ const About = () => {
 						de desenvolvimento.
 					</p>
 					<a
-						href='/CV-LuísOliveira2025.pdf'
+						href='/C.V-LUISOLIVEIRA.pdf'
 						download
 						className='inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105'
 						style={{
